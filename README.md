@@ -1,4 +1,7 @@
 ### Hi there 👋
+![](https://raw.githubusercontent.com/jenniferwang2/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/jenniferwang2/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 
 <!--
 **jenniferwang2/jenniferwang2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
