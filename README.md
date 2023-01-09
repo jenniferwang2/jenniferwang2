@@ -1,6 +1,6 @@
 ### Hi there 👋
-![](https://raw.githubusercontent.com/jenniferwang2/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/jenniferwang2/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/jenniferwang2/git-stats-/blob/master/generated/overview.svg)
+![](https://github.com/jenniferwang2/git-stats-/blob/master/generated/languages.svg)
 
 
 <!--
